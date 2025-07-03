@@ -1,8 +1,10 @@
 .env*
 !.env.example
-
 # Python cache
+server/venv
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
+.cog/
+server/.cog/
